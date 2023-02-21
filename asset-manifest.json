@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mohamed-khaled11/menu-project/static/css/main.72be9b63.css",
+    "main.js": "/mohamed-khaled11/menu-project/static/js/main.b267daf3.js",
+    "static/media/bg.jpg": "/mohamed-khaled11/menu-project/static/media/bg.105aad9b98fcfd7cc768.jpg",
+    "static/media/lunch04.jpg": "/mohamed-khaled11/menu-project/static/media/lunch04.6a545d4d0a80d9813949.jpg",
+    "static/media/breakfast01.jpg": "/mohamed-khaled11/menu-project/static/media/breakfast01.2e0b9ea82c095e378493.jpg",
+    "static/media/breakfast02.jpg": "/mohamed-khaled11/menu-project/static/media/breakfast02.6e7ab9187a5e434f9dc8.jpg",
+    "static/media/breakfast03.jpg": "/mohamed-khaled11/menu-project/static/media/breakfast03.5fc4db735b762d861ae8.jpg",
+    "static/media/dinner03.jpg": "/mohamed-khaled11/menu-project/static/media/dinner03.6f118ef4f0cab37114e6.jpg",
+    "static/media/lunch01.jpg": "/mohamed-khaled11/menu-project/static/media/lunch01.729a51b02dced3039a55.jpg",
+    "static/media/lunch03.jpg": "/mohamed-khaled11/menu-project/static/media/lunch03.ad6d9efb33219b9fb2fb.jpg",
+    "static/media/breakfast04.jpg": "/mohamed-khaled11/menu-project/static/media/breakfast04.7aff70bab7fdab9aa183.jpg",
+    "static/media/lunch02.jpg": "/mohamed-khaled11/menu-project/static/media/lunch02.6529189025186b516057.jpg",
+    "static/media/dinner01.webp": "/mohamed-khaled11/menu-project/static/media/dinner01.a6f6f7e2d92d98fa6129.webp",
+    "static/media/drink04.jpg": "/mohamed-khaled11/menu-project/static/media/drink04.678b69a3f837039f980b.jpg",
+    "static/media/drink01.jpg": "/mohamed-khaled11/menu-project/static/media/drink01.db0557be7ccf45284e39.jpg",
+    "index.html": "/mohamed-khaled11/menu-project/index.html",
+    "main.72be9b63.css.map": "/mohamed-khaled11/menu-project/static/css/main.72be9b63.css.map",
+    "main.b267daf3.js.map": "/mohamed-khaled11/menu-project/static/js/main.b267daf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72be9b63.css",
+    "static/js/main.b267daf3.js"
+  ]
+}
