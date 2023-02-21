@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+/*card style*/
+.card-img{
+  width: 100%;
+  height:200px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  background-color: goldenrod;
+}
+.price{
+  font-weight: bold;
+  color: goldenrod;
+}
+.card-text{
+  text-align: right !important;
+}
